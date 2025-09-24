@@ -3,6 +3,8 @@
 This project implements a **Customer Support AI Agent** using Python and LangChain.  
 The agent interacts safely with users, answers service-related questions, handles complaints, and logs them in a Google Sheet.  
 
+- **View logged complaints:** [Google Sheet Link](https://docs.google.com/spreadsheets/d/1qm7H3mHC97-N1ghFUb9cw3wDBnQgJxrfB44vFZXVGQY/edit?usp=sharing)
+
 ---
 
 ## 1. Guardrail Design
@@ -51,7 +53,6 @@ The agent interacts safely with users, answers service-related questions, handle
   - Assigned Agent  
   - Date/Time  
 
-- **View logged complaints:** [Google Sheet Link](https://docs.google.com/spreadsheets/d/1qm7H3mHC97-N1ghFUb9cw3wDBnQgJxrfB44vFZXVGQY/edit?usp=sharing)
 
 ---
 
